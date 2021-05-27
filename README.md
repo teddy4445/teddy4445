@@ -1,18 +1,12 @@
-### 👋 Hi there, my name is Teddy 
+### 👋 Hi there, my name is Teddy Lazebnik
 
 #### I'm a Biomathematics, Nanorobotics and AI researcher working on any cool project that comes to my door
-
-##### Updates
-
-- checkout our personal academic website opensource [Sphera Academy](https://sphera.academy/).
-- I have a [personal academic website](https://teddylazebnik.info/) with more info.
-- 
 
 ##### Shortest BIO
 
 - 🏢 I'm currently working at **Bar Ilan University** and **DataClue UK** along side of been **freelance algorithm developer** 
-- 🌍 I'm mostly active within the **industy-academic algorithmic development and in-silico biological experiments**
-- 🌱 Learning all about **Mathematical models for biology**
+- 🌍 I'm mostly active within the **industry-academic algorithmic development and in-silico biological experiments**
+- 🌱 Learning all about **Mathematical models for biology and medical**
 - 📫 Reach me: [Teddy Lazebnik on Linkedin](https://www.linkedin.com/in/teddy-lazebnik/)
 - ⚡️ Fun fact: I'm shooting from traditinal and modern bow and arrow.
 
