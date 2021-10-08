@@ -4,9 +4,8 @@
 
 ##### Shortest BIO
 
-- 🏢 I'm currently working at **Bar Ilan University** and **DataClue UK** along side of been **freelance algorithm developer** 
 - 🌍 I'm mostly active within the **industry-academic algorithmic development and in-silico biological experiments**
-- 🌱 Learning all about **Mathematical models for biology and medical**
+- 🌱 Learning all about **Mathematical models for biology and medicine**
 - 📫 Reach me: [Teddy Lazebnik on Linkedin](https://www.linkedin.com/in/teddy-lazebnik/)
 - ⚡️ Fun fact: I'm shooting from traditinal and modern bow and arrow.
 
