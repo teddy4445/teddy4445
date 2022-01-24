@@ -1,6 +1,6 @@
 ### 👋 Hi there, my name is Teddy Lazebnik
 
-#### I'm a Biomathematics, Nanorobotics and AI researcher working on any cool project that comes to my door
+#### I'm a Biomathematics, Nanorobotics and AI researcher
 #### Currently, I am a CTO at [DataClue Ltd.](https://dataclue.co.uk/) and a postdoctoral researcher at the [Medical Genomics Group lab, Cancer Institute, UCL](https://www.ucl.ac.uk/cancer/research/department-cancer-biology/medical-genomics-group)
 
 ##### Shortest BIO
