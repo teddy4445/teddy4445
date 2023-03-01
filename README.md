@@ -1,13 +1,13 @@
 ### 👋 Hi there, my name is Teddy Lazebnik
 
-#### I'm a Biomathematics, Nanorobotics and AI researcher
+#### I'm a algorithm developer & researcher using math and CS to solve in economic, healthcare, clinics (mainly oncology), sociology, and information systems.
 #### Currently, I am a postdoctoral researcher at the [Medical Genomics Group lab, Cancer Institute, UCL](https://www.ucl.ac.uk/cancer/research/department-cancer-biology/medical-genomics-group)
 
 ##### Shortest BIO
 
 - 🌍 I'm mostly active within the **industry-academic algorithmic development and in-silico biological experiments**
 - 🌱 Learning all about **Mathematical models for biology and medicine**
-- 📫 Reach me: [Teddy Lazebnik on Linkedin](https://www.linkedin.com/in/teddy-lazebnik/) and on [my academic website](https://teddylazebnik.info/)
+- 📫 Reach me: [Teddy Lazebnik on Linkedin](https://www.linkedin.com/in/teddy-lazebnik/) and on [my academic website](https://teddylazebnik.com/)
 - ⚡️ Fun fact: I'm shooting from traditinal and modern bow and arrow.
 
 
